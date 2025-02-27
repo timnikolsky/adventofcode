@@ -10,3 +10,5 @@ export const paths = text.split('\r\n').map((pathString) => {
 		}
 	})
 });
+
+console.log(paths)
